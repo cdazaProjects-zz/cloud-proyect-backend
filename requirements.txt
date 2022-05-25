@@ -81,7 +81,7 @@ django-celery==3.2.2
 ptyprocess==0.6.0
 pycparser==2.19
 Pygments==2.5.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 pymongo==3.10.1
 pyrsistent==0.15.7
 python-crontab==2.4.0
